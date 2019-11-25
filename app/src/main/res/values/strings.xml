@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">iTunes Search</string>
+    <string name="title_activity_song_details">SongDetails</string>
+    <string name="hint_search">Searching for…</string>
+    <string name="search_description">City, Cities</string>
+    <string name="empty_results">   </string>
+    <string name="search_toast">Searching for...</string>
+    <string name="refresh">Refreshing...</string>
+
+</resources>
